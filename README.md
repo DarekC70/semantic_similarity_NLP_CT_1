@@ -21,7 +21,7 @@ similarity value: 'cat', 'monkey', 'banana'
 
 Comparasion of the one word with the rest of the words into the group1;
 cat cat 1.0
-cat apple 0.2036806046962738   
+cat apple 0.2036806046962738  
 cat monkey 0.5929930210113525  
 cat banana 0.2235882580280304  
 apple cat 0.2036806046962738   
